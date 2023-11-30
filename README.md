@@ -51,7 +51,7 @@ betting/sports-betting/what-is-a-spread/#:~:text=If%20the%20spread%
 tobycrabtree/nfl-scores-and-betting-data/data
 
 ## Links
-[Overleaf Report](https://www.overleaf.com/read/zqcpqztmphns#81e1c8)
+[Overleaf Report](https://www.overleaf.com/read/zqcpqztmphns#81e1c8)\
 [Spreadspoke Curated Dataset from Kaggle](https://www.kaggle.com/datasets/tobycrabtree/nfl-scores-and-betting-data)
 
 
