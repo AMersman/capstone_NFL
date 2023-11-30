@@ -40,15 +40,10 @@ perature, wind speed, and humidity).
 
 ## References 
 1. Contessa Brewer, J.G.: A record 73 million americans plan to bet on the nfl
-this season, survey says (September 2003), https://www.cnbc.com/2023/09/06/
-nfl-week-1-record-number-of-americans-to-bet-on-nfl-this-season-.html
-2. Kaggle: Getting started on kaggle — kaggle api, https://www.kaggle.com/docs/
-api
-3. Preciado, D.: What is a spread in sports betting?, https://www.forbes.com/
-betting/sports-betting/what-is-a-spread/#:~:text=If%20the%20spread%
-20is%20set,by%20more%20than%20seven%20points.
-4. Spreadspoke: Nfl scores and betting data, https://www.kaggle.com/datasets/
-tobycrabtree/nfl-scores-and-betting-data/data
+this season, survey says (September 2003), https://www.cnbc.com/2023/09/06/nfl-week-1-record-number-of-americans-to-bet-on-nfl-this-season-.html
+2. Kaggle: Getting started on kaggle — kaggle api, https://www.kaggle.com/docs/api
+3. Preciado, D.: What is a spread in sports betting?, https://www.forbes.com/betting/sports-betting/what-is-a-spread/#:~:text=If%20the%20spread%20is%20set,by%20more%20than%20seven%20points.
+4. Spreadspoke: Nfl scores and betting data, https://www.kaggle.com/datasets/tobycrabtree/nfl-scores-and-betting-data/data
 
 ## Links
 [Overleaf Report](https://www.overleaf.com/read/zqcpqztmphns#81e1c8)\
